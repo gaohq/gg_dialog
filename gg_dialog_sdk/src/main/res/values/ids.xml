@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- contentDialog 需要的id -->
+    <item type="id" name="tv_da_content"/>
+    <item type="id" name="ll_da_left_area"/>
+    <item type="id" name="tv_da_left_content"/>
+    <item type="id" name="ll_da_right_area"/>
+    <item type="id" name="tv_da_right_content"/>
+</resources>

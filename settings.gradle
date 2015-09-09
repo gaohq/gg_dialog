@@ -1,0 +1,1 @@
+include ':gg_dialog_sdk', ':myapplication'
