@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- contentDialog 需要的id -->
+    <item type="id" name="tv_da_content"/>
+    <item type="id" name="ll_da_left_area"/>
+    <item type="id" name="tv_da_left_content"/>
+    <item type="id" name="ll_da_right_area"/>
+    <item type="id" name="tv_da_right_content"/>
+
+    <!-- editDialog 需要的ID -->
+    <item type="id" name="tv_de_title"/>
+    <item type="id" name="edt_de_content"/>
+    <item type="id" name="ll_de_cancel"/>
+    <item type="id" name="ll_de_confirm"/>
+    <item type="id" name="tv_de_right_content"/>
+    <item type="id" name="tv_de_left_content"/>
+</resources>
