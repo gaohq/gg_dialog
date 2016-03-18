@@ -14,4 +14,39 @@
     <item type="id" name="ll_de_confirm"/>
     <item type="id" name="tv_de_right_content"/>
     <item type="id" name="tv_de_left_content"/>
+
+    <!--double editDialog 需要的ID-->
+    <item type="id" name="tv_dde_title"/>
+    <item type="id" name="tv_dde_sub_title"/>
+    <item type="id" name="edt_dde_one_content"/>
+    <item type="id" name="edt_dde_two_content"/>
+    <item type="id" name="tv_dde_one_error"/>
+    <item type="id" name="tv_dde_two_error"/>
+    <item type="id" name="ll_dde_cancel"/>
+    <item type="id" name="ll_dde_confirm"/>
+    <item type="id" name="tv_dde_right_content"/>
+    <item type="id" name="tv_dde_left_content"/>
+
+    <!--三个编辑框的Dialog-->
+    <item type="id" name="tv_dte_title"/>
+    <item type="id" name="tv_dte_content"/>
+    <item type="id" name="ll_dte_cancel"/>
+    <item type="id" name="btn_dte_code"/>
+    <item type="id" name="edt_dte_one_content"/>
+    <item type="id" name="edt_dte_two_content"/>
+    <item type="id" name="tv_dte_one_error"/>
+    <item type="id" name="tv_dte_two_error"/>
+    <item type="id" name="ll_dte_confirm"/>
+    <item type="id" name="tv_dte_left_content"/>
+    <item type="id" name="tv_dte_right_content"/>
+
+    <!--跳转的-->
+    <item type="id" name="tv_dj_title"/>
+    <item type="id" name="edt_dj_one_content"/>
+    <item type="id" name="tv_dj_jump"/>
+    <item type="id" name="tv_dj_one_error"/>
+    <item type="id" name="tv_dj_left_content"/>
+    <item type="id" name="tv_dj_right_content"/>
+    <item type="id" name="ll_dj_confirm"/>
+    <item type="id" name="ll_dj_cancel"/>
 </resources>
